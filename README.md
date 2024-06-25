@@ -3,6 +3,7 @@
 I'd be glad to craft a response that incorporates the strengths of Response A and Response B, addresses their shortcomings based on the ratings, and leverages insights from the provided ratings:
 
 **Project: AI Blog-Post Generator**
+![blogetron](https://github.com/AmeyThore/AI-Blog-Generator/assets/99610343/a3f0b7c5-cd03-4906-9d24-c09eb09bc166)
 
 **Technology Stack:**
 
